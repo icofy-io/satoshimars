@@ -3,10 +3,10 @@ SatoshiMars is an artificial intelligence trading bot that uses prediction algo
 long short term memory neural network for time series and other deep learning method.
 
 # Technical Support
-If you need technical support for easy to use dashboard plugin and installation of SatoshiMars, feel free to start <a href="https://t.me/SatoshiMarsBot">@SatoshiMarsBot</a>on telegram.
+If you need technical support for easy to use dashboard plugin and installation of SatoshiMars, feel free to start <a href="https://t.me/SatoshiMarsBot">@SatoshiMarsBot</a> on telegram.
 
 # Community
-SatoshiMars has a <a href="https://t.me/satoshimars">telegram community</a> for discussions on using SatoshiMars https://t.me/satoshimars , automated trading on BitMex. 
+SatoshiMars has a <a href="https://t.me/satoshimars">telegram community</a> for discussions on using SatoshiMars and automated trading on BitMex. 
 
 Also, you can look at publication in Medium - https://medium.com/@seyiolusakin/artificial-intelligence-goes-mainstream-be1535f18c13
 
