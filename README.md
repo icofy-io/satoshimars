@@ -8,7 +8,7 @@ SatoshiMars has a telegram community for discussions on using SatoshiMars https:
 # Technical Support
 If you need technical support for easy to use dashboard plugin and installation of SatoshiMars, feel free to start @SatoshiMarsBot on telegram.
 
-Also you can look at publication in Medium - https://medium.com/@seyiolusakin/artificial-intelligence-goes-mainstream-be1535f18c13
+Also, you can look at publication in Medium - https://medium.com/@seyiolusakin/artificial-intelligence-goes-mainstream-be1535f18c13
 
 # Disclaimer
 Do not risk money which you are afraid to lose. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.
